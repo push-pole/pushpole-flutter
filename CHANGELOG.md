@@ -1,3 +1,9 @@
+## 1.7.1
+
+* Update native android module to latest.
+
+* Fix problem with FirebaseMessaging 20.1.0
+
 ## 1.7.0
 
 * Update native android module to latest
