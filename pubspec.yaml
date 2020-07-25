@@ -1,6 +1,6 @@
 name: pushpole
 description: A plugin implementing functionality of PushPole Android SDK. Refer to push-pole.com for further details about PushPole.
-version: 1.7.1
+version: 1.7.2
 author: PushPole <ali@push-pole.com>
 homepage: https://push-pole.com
 

@@ -34,5 +34,5 @@ android {
 }
 
 dependencies {
-    implementation ("com.pushpole.android:pushsdk:1.7.1")
+    implementation ("com.pushpole.android:pushsdk:1.7.2")
 }

@@ -1,3 +1,7 @@
+## 1.7.2
+
+* - Fixes `ExceptionHandler` loop issue.
+
 ## 1.7.1
 
 * Update native android module to latest.
